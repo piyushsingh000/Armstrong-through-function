@@ -1,0 +1,1 @@
+# Armstrong-through-function
